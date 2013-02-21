@@ -2,3 +2,63 @@
 #+startup: hidestars
 
 For now it's a notebook for random stuff.
+
+
+
+* Building the world
+
+** Time crystals
+   Could be used for time tracking.
+
+
+
+* Reference materials
+
+** Time crystals
+   [[http://en.wikipedia.org/wiki/Space-time_crystal][Space-Time Crystal <en.wikipedia.org>]]
+
+   [[http://www.ctc.cam.ac.uk/stephen70/talks/swh70_wilczek.pdf][Frank Wilczek - "Time Crystals" <ctc.cam.ac.uk>]]
+   [[http://phys.org/news/2012-07-physics-team-actual-space-time-crystal.html][Physics team proposes a way to create an actual space-time crystal <phys.org>]]
+   [[http://www.technologyreview.com/view/428334/how-to-build-a-space-time-crystal/][How to Build a Space-Time Crystal <technologyreview.com>]]
+
+
+** Cube 2
+   [[http://www.filmweb.pl/2.Cube][Cube 2 <filmweb.pl>]]
+   [[http://www.youtube.com/watch?v=R4N86WL4TvM][Cube 2 Hypercube Trailer <youtube.com>]]
+
+
+** 4D Geometry Visualizations
+
+*** 4D animated rendeirngs
+    http://www.math.union.edu/~dpvc/math/4D/welcome.html
+
+*** Maze
+    http://www.urticator.net/maze/
+
+
+** Raytracing implementation
+
+*** Building raytracer
+    Experimenting in RayTracing <hackification.org> [[http://www.hackification.com/2008/07/11/experiments-in-ray-tracing-part-1/][1]], [[http://www.hackification.com/2008/07/13/experiments-in-ray-tracing-part-2/][2]], [[http://www.hackification.com/2008/07/15/experiments-in-ray-tracing-part-3-basics/][3]], [[http://www.hackification.com/2008/07/18/experiments-in-ray-tracing-part-4-lighting/][4]], [[http://www.hackification.com/2008/07/22/experiments-in-ray-tracing-part-5-reflections/][5]], [[http://www.hackification.com/2008/07/25/experiments-in-ray-tracing-part-6-intersection-tests/][6]].
+
+*** Antialiasing
+    [[http://www.hackification.com/2008/08/31/experiments-in-ray-tracing-part-8-anti-aliasing/][Experiments in Ray-Tracing, Part 8: Anti-Aliasing <hackification.org>]] - how to get 5x antialiasing in 2x rendering time.
+
+*** Interpolation
+    [[http://www.hackification.com/2008/09/07/experiments-in-ray-tracing-part-9-interpolation/][Experiments in Ray-Tracing, Part 9: Interpolation <hackification.org>]]
+
+*** Multithreading
+    [[http://www.hackification.com/2008/08/17/experiments-in-ray-tracing-part-7-multi-threading/][Experiments in Ray-Tracing, Part 7: Multi-Threading <hackification.org>]]
+
+
+** Problem: Raytracing wireframes
+   Because it's not obvious how to ray trace just the edges of the
+   geometry.
+
+   [[http://www.gamedev.net/topic/125753-raytracing-wireframe/][Raytracing wireframe <gamedev.net>]]
+
+
+
+* Publications / hard references
+
+  [[http://steve.hollasch.net/thesis/index.html][Steven Richard Hollasch - "Four-Space Visualization of 4D Objects"]]
