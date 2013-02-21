@@ -1,0 +1,4 @@
+#+title: Notes
+#+startup: hidestars
+
+For now it's a notebook for random stuff.
