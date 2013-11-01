@@ -3,14 +3,10 @@
 
 For now it's a notebook for random stuff.
 
-
-
 * Building the world
 
 ** Time crystals
    Could be used for time tracking.
-
-
 
 * Reference materials
 
@@ -35,7 +31,6 @@ For now it's a notebook for random stuff.
 *** Maze
     http://www.urticator.net/maze/
 
-
 ** Raytracing implementation
 
 *** Building raytracer
@@ -56,8 +51,6 @@ For now it's a notebook for random stuff.
    geometry.
 
    [[http://www.gamedev.net/topic/125753-raytracing-wireframe/][Raytracing wireframe <gamedev.net>]]
-
-
 
 * Publications / hard references
 
